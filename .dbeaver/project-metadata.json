@@ -1,1 +1,1 @@
-{"resources":{"Scripts/aggregates-and-grouping.sql":{"default-datasource":"mysql8-1934a53ddcc-16fb854732b950ad"}}}
+{"resources":{"Scripts/aggregates-and-grouping.sql":{"default-datasource":"mysql8-1934a53ddcc-16fb854732b950ad"},"Scripts/nested-queries.sql":{"default-datasource":"mysql8-1934a53ddcc-16fb854732b950ad"}}}
