@@ -26,7 +26,7 @@ WHERE
 
 -- 3. Get order IDs and employee IDs for orders containing "Sasquatch Ale"
 SELECT 
-    o.EmployeeID 
+    o.OrderID 
 FROM 
     northwind.Orders o 
 WHERE 
